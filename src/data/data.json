@@ -1,15 +1,14 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "COMPREHENSIVE. EFFICIENT. ACCURATE.",
+    "paragraph": "Highly trained, experienced staff, outstanding customer support, and a laboratory that exceeds all relevant accreditations.."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Lab 24 is a well-recognized laboratory that has the best management and ownership that provides the most comprehensive and extensive testing menu available. Since 2005 we have served the clinical market making us one of the top laboratories in the industry. We deliver world-class testing procedures to ensure accurate, reliable, and timely results. With our highly trained, experienced staff, outstanding customer support, and a laboratory that exceeds all relevant accreditations, Lab 24 is the leader in Laboratory testing in South Florida and throughout the nation. We are dedicated to meet the growing needs of the physicians that depend on us for accurate and reliable results by using the most advanced instruments as well as continually exploring new methods for the most cutting-edge technology available. It is our mission to work hand in hand with our customers because we understand the importance of clinical laboratory testing in order to diagnose and plan the treatment of their patients. ",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "CANCER GENETIC(CGX) TESTING",
+      "PHARMACOGENETIC(PGX) TESTING",
+      "DYNAMIC REPORTING"
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -66,34 +65,35 @@
     }
   ],
   "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+   
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
+      "name": "RT-PCR COVID-19 TESTING",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
+      "name": "COVID-19 TEST RESULTS",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
+      "name": "SUBMIT RFP",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
+      "name": "CANCER GENETIC SCREENING (CGX)",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
+      "name": "PHARMACOGENETIC SCREENING (PGX)",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "COVID-19 TESTING FOR BUSINESSES",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
