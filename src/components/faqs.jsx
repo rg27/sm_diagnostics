@@ -25,22 +25,22 @@ export const Faqs = (props) => {
             <div className='row'>
                 {props.data
                     ? props.data.map((d, i) => (
-                        <div key={`${d.question}-${i}`}>
-                        {' '}
-                            <Accordion allowZeroExpanded>
-                                <AccordionItem>
-                                    <AccordionItemHeading>
-                                        <AccordionItemButton>
-                                            {d.question}
-                                        </AccordionItemButton>
-                                    </AccordionItemHeading>
+                    <div key={`${d.question}-${i}`}>
+                    {' '}
+                        <Accordion allowZeroExpanded>
+                            <AccordionItem>
+                                <AccordionItemHeading>
+                                    <AccordionItemButton>
+                                        {d.question}
+                                    </AccordionItemButton>
+                                </AccordionItemHeading>
 
-                                    <AccordionItemPanel>
-                                        {d.answer}
-                                    </AccordionItemPanel>
-                                </AccordionItem>
-                            </Accordion>
-                        </div>
+                                <AccordionItemPanel>
+                                    {d.answer}
+                                </AccordionItemPanel>
+                            </AccordionItem>
+                        </Accordion>
+                    </div>
                 ))
                 : 'Loading...'}
             </div>

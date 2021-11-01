@@ -67,34 +67,34 @@
   "Services": [
    
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-medkit",
       "name": "RT-PCR COVID-19 TESTING",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-medkit",
       "name": "COVID-19 TEST RESULTS",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-medkit",
       "name": "SUBMIT RFP",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-medkit",
       "name": "CANCER GENETIC SCREENING (CGX)",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Genetic testing looks for specific inherited changes (variants) in a person’s genes."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-medkit",
       "name": "PHARMACOGENETIC SCREENING (PGX)",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-medkit",
       "name": "COVID-19 TESTING FOR BUSINESSES",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Need to organize and implement COVID-19 testing? Our custom solution provides a full turnkey service for all of your COVID-19 testing needs."
     }
   ],
   "Testimonials": [
