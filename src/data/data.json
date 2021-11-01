@@ -180,5 +180,36 @@
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
+  ],
+
+  "Faqs": [
+    {
+      "question": "What services do you offer?",
+      "answer": "Predictive & Diagnostic Genetic testing, In-house performed qualitative immunoassay testing, In-house performed quantitative confirmations with highly accurate LC/MS/MS technology, An extensive drug testing offering, Customizable drug testing panels, Consulting services with industry-leading staff geneticists and toxicologists, Timely, easy to read reports, Multiple reporting options, Point of Care (POC) screening devices, Customized collection and pick-up services"
+    },
+    {
+      "question": "What makes SM Diagnostics different?",
+      "answer": "Industry-leading turnaround time, Customizable panel options, Diagnostic laboratory expertise, Multiple billing options including a direct bill to insurance and client bill (where allowable)"
+    },
+    {
+      "question": "Who do I contact at SM Diagnostics to discuss results? ",
+      "answer": "Customer support at (786)422-1679 can assist with facilitating your request."
+    },
+    {
+      "question": "What is SM Diagnostics turnaround time? ",
+      "answer": "24 hours for immunoassay-qualitative results, 36 hours for LC/MS/MS quantification, PGx Testing- 5-7 days, CGx Testing- 10-15 days, UTI Testing- 48-72 hours"
+    },
+    {
+      "question": "How can I customize my test panels with SM Diagnostics?",
+      "answer": "Customization allows you to tailor your monitoring protocol based upon the unique needs of your practice and patients. Contact your sales representative or contact customer support at (800) 641-0133 to discuss the value of test panel customization to your practice."
+    },
+    {
+      "question": "What are your hours of operation?",
+      "answer": "Our normal business hours are M-F 9 a.m.- 5 p.m. EST, After hours contact: info@lab24inc.com"
+    },
+    {
+      "question": "What are SM Diagnostics results reporting options?",
+      "answer": "Automatic delivery of your results via fax server-no paper printing required, Automated delivery of our results into your EMR through an HL7 interface"
+    }
   ]
 }
