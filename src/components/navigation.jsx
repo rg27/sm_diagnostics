@@ -49,7 +49,7 @@ export const Navigation = (props) => {
 
                         <li>
                             <a href='tel:7864221679' className='page-scroll'>
-                            Call Us (<i class="fa fa-mobile"></i> <strong class ="strong">786-422-1679</strong>)
+                            <   strong class ="strong">Call Us (<i class="fa fa-mobile"></i> 786-422-1679</strong>)
                             </a>
                         </li>
                     </ul>
