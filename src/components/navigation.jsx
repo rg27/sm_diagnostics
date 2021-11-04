@@ -48,8 +48,14 @@ export const Navigation = (props) => {
                         </li>
 
                         <li>
+                            <a href='mailto:info@smdiagnosticsllc.com' className='page-scroll'>
+                                <strong class ="strong">Email Us (<i class="fa fa-envelope"></i> info@smdiagnosticsllc.com</strong>)
+                            </a>
+                        </li>
+
+                        <li>
                             <a href='tel:7864221679' className='page-scroll'>
-                            <   strong class ="strong">Call Us (<i class="fa fa-mobile"></i> 786-422-1679</strong>)
+                                <strong class ="strong">Call Us (<i class="fa fa-mobile"></i> 786-422-1679</strong>)
                             </a>
                         </li>
                     </ul>
