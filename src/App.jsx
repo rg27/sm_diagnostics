@@ -20,16 +20,16 @@ const App = () => {
     setLandingPageData(JsonData);
   }, []);
 
-  return (
-    <div>
-      <Navigation />
-      <Header data={landingPageData.Header} />
-      <About data={landingPageData.About} />
-      <Services data={landingPageData.Services} />
-      <Faqs data={landingPageData.Faqs}/>
-      <Contact data={landingPageData.Contact} />
-    </div>
-  );
+    return (
+        <div>
+        <Navigation />
+        <Header data={landingPageData.Header} />
+        <About data={landingPageData.About} />
+        <Services data={landingPageData.Services} />
+        <Faqs data={landingPageData.Faqs}/>
+        <Contact data={landingPageData.Contact} />
+        </div>
+    );
 };
 
 export default App;
