@@ -72,7 +72,6 @@ export const NewHeader = (props) => {
 											<p className='help-block text-danger'></p>
 										</div>
 									</div>
-
 									<div className='col-md-6'>
 										<div className='form-group'>
 											<input
@@ -103,20 +102,15 @@ export const NewHeader = (props) => {
 										</div>
 									</div>
 								</div>
-
-								{/* <div className='form-group'>
-									<textarea
-										name='message'
-										id='message'
-										className='form-control'
-										rows='4'
-										placeholder='Message'
-										required
-										onChange={handleChange}
-									></textarea>
-									<p className='help-block text-danger'></p>
-								</div> */}
-
+                                <div className='form-group'>
+                                            <input
+                                                type='checkbox'
+                                            ></input> By submitting, I consent to have a representative from SM Diagnosics LLC, contact me at the phone number I have provided regarding genetic testing products/services by phone, email, 
+                                            and text message regardless of my status on any state or federal do-not-call lists and to verify health benefits 
+                                            and history with my physician. Consent is not a condition of purchase. Insurance reimbursed items must qualify 
+                                            and deductibles and coinsurance may apply.
+                                            <p className='help-block text-danger'></p>
+                                        </div>
 								<div id='success'></div>
 								<button type='submit' className='btn btn-custom btn-lg'>
 								Lets Get Started
