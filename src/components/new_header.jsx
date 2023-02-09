@@ -104,7 +104,7 @@ export const NewHeader = (props) => {
 									</div>
 								</div>
 
-								<div className='form-group'>
+								{/* <div className='form-group'>
 									<textarea
 										name='message'
 										id='message'
@@ -115,7 +115,7 @@ export const NewHeader = (props) => {
 										onChange={handleChange}
 									></textarea>
 									<p className='help-block text-danger'></p>
-								</div>
+								</div> */}
 
 								<div id='success'></div>
 								<button type='submit' className='btn btn-custom btn-lg'>
